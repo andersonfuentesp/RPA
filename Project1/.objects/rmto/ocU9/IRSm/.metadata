@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome admision.unmsm.edu.peWebsiteExa_20232A",
+  "Type": "Screen",
+  "Id": "IRSm9RIMEEanxSxRy8qkog",
+  "Reference": "xOzGYxKr3Ue3HIog28h17A/IRSm9RIMEEanxSxRy8qkog",
+  "ParentRef": "xOzGYxKr3Ue3HIog28h17A/ocU9eup_NECIXHuDA-Gpsw",
+  "Created": "2024-06-25T02:34:38.1318776Z",
+  "Updated": "2024-06-25T02:34:38.1318776Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

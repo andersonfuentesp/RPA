@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "ocU9eup_NECIXHuDA-Gpsw",
+  "Reference": "xOzGYxKr3Ue3HIog28h17A/ocU9eup_NECIXHuDA-Gpsw",
+  "ParentRef": "xOzGYxKr3Ue3HIog28h17A/rmtoqi3z_kS9oylda6BPOQ",
+  "Created": "2024-06-25T02:34:38.1100546Z",
+  "Updated": "2024-06-25T02:34:38.1100546Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

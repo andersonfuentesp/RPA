@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7IXWEba2UkeDQYtmQg529Q" Reference="xOzGYxKr3Ue3HIog28h17A/a3bxhghISUetWUIL_AKjYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://admision.unmsm.edu.pe/WebsiteExa_20232/A/011/0.html" ContentHash="5ElgLQq9F0W-u8k_tk5z0A" DesignTimeRectangle="265, 316, 1387, 765" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl id='tabla' tag='TABLE' /&gt;" Guid="3ba99284-50d5-4fb1-8577-49a43f749bc0" Reference="xOzGYxKr3Ue3HIog28h17A/a3bxhghISUetWUIL_AKjYQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='admision.unmsm.edu.pe/WebsiteExa_20232/A/011/0.html' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dc43efcfe0f93d3318dcc9eb234d28a4.png" xmlns="">0CtUaEE80-EOiqxYuf_yb5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='CODIGO' ReferenceIdx='0' Name='CODIGO'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='APELLIDOS Y NOMBRES' ReferenceIdx='1' Name='APELLIDOS Y NOMBRES'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='ESCUELA PROFESIONAL' ReferenceIdx='2' Name='ESCUELA PROFESIONAL'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='PUNTAJE FINAL' ReferenceIdx='3' Name='PUNTAJE FINAL'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='MERITO&amp;#xA;E.P' ReferenceIdx='4' Name='MERITO E.P'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='OBSERVACIÓN' ReferenceIdx='5' Name='OBSERVACIÓN'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="https://admision.unmsm.edu.pe/WebsiteExa_20232/A/011/0.html" CVScreenId="ad4b4323-8862-4211-9e9e-e866aa435687" CvElementArea="1537, 877, 115, 51" CvTextArea="1551, 895, 85, 23" CvTextArgument="Siguiente" CvType="Button" DesignTimeRectangle="1538, 880, 114, 47" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='tabla_next' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='tabla_next' tag='A' type='' class='page-link' aaname='Siguiente' check:innerText='Siguiente' /&gt;" Guid="17997d00-717d-4e67-af6d-78506dd6c036" ScopeSelectorArgument="&lt;html app='chrome.exe' title='admision.unmsm.edu.pe/WebsiteExa_20232/A/011/0.html' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
